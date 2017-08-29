@@ -1,3 +1,7 @@
+
+### Codigo de teste: https://www.youtube.com/watch?v=yLJnt0oSDFo
+
+
 from sklearn import tree
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
